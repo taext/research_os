@@ -1,4 +1,4 @@
-## My Favourite Linux Shell Scripts & Customizations
+## Copenhagen OS custom shell scripts and customizations
 
 <br>
 
