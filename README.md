@@ -1,10 +1,10 @@
 ## Research OS v0.1
 #### YouTube, Bing, Library Genesis, VLC and GPG integrations
-#### Coming Soon: Mediabyte integration
+##### Coming soon: mediabyte integration
 
 <br>
 
-SCRIPTS
+SHELL SCRIPTS
 
 **lg**: ls and then grep for argument string
 
