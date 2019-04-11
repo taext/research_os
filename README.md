@@ -1,6 +1,6 @@
 ## Research OS v0.1
 #### YouTube, Bing, Library Genesis, VLC and GPG integrations
-##### Coming soon: mediabyte integration
+upcoming: Mediabyte integration
 
 <br>
 
