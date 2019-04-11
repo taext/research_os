@@ -1,9 +1,10 @@
-## Copenhagen OS v0.1
-#### scripts and customizations
+## Research OS v0.1
+#### YouTube, Bing, Library Genesis, VLC and GPG integrations
+upcoming: Mediabyte integration
 
 <br>
 
-SCRIPTS
+### Shell Scripts
 
 **lg**: ls and then grep for argument string
 
@@ -54,7 +55,7 @@ SCRIPTS
 <br>
 
 
-HOTKEYS
+### Hotkeys
 
 **ya_paste**: takes input field text, search YouTube, open results in browser tabs (YouTube button) (e.g. Insert key)
 
@@ -66,7 +67,7 @@ HOTKEYS
 
 <br>
 
-ALIASES
+### Aliases
 
 **c**: google-chrome
 
