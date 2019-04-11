@@ -1,5 +1,5 @@
 ## Copenhagen OS v0.1
-#### YouTube, Bing, Library Genesis and VLC integrations
+#### YouTube, Bing, Library Genesis, VLC and GPG integrations
 
 <br>
 
