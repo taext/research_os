@@ -1,5 +1,5 @@
-## Copenhagen OS (CPHOS)
-#### shell scripts and customizations
+## Copenhagen OS v0.1
+#### scripts and customizations
 
 <br>
 
