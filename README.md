@@ -4,7 +4,7 @@ upcoming: Mediabyte integration
 
 <br>
 
-### Shel Scripts
+### Shell Scripts
 
 **lg**: ls and then grep for argument string
 
