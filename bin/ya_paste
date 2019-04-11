@@ -1,0 +1,14 @@
+#!/home/dd/anaconda3/bin/xonsh
+
+import pyperclip
+import pyautogui
+
+pyautogui.hotkey('ctrl','a')
+pyautogui.hotkey('ctrl','c')
+pyautogui.press('right')
+
+clipboard_content = pyperclip.paste()
+
+results = $(yn @(clipboard_content)).split("\n")
+
+google-chrome @(results[:-1])

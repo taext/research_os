@@ -1,0 +1,14 @@
+#!/home/dd/anaconda3/bin/python
+# copy to clipboard v0.1
+ 
+import pyperclip
+import pyautogui
+import sys
+
+def copy(str_to_copy):
+
+    url = pyperclip.copy(str_to_copy)
+
+    return(url)
+
+print (copy(sys.argv[1]))

@@ -1,0 +1,11 @@
+#!/home/dd/anaconda3/bin/python
+
+import pyperclip
+import pyautogui
+import sh
+
+pyautogui.hotkey('ctrl','c')
+
+clipboard_content = pyperclip.paste()
+
+sh.gen(clipboard_content)

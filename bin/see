@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /home/dd/Documents/random_vlc
+./randomword | xargs -t -0 -I {} you {} ${1-1}
+ 

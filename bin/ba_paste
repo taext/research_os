@@ -1,0 +1,30 @@
+#!/home/dd/anaconda3/bin/python
+
+import pyperclip
+import pyautogui
+import subprocess
+import bn
+import re
+
+pyautogui.hotkey('ctrl','a')
+pyautogui.hotkey('ctrl','c')
+pyautogui.press('right')
+
+clipboard_content = pyperclip.paste()
+
+# check for trailing count integer
+m = re.search('\d{1,2}$', clipboard_content)
+if m:
+    result_count = int(m.group(0))
+
+    clipboard_content = clipboard_content[:-len(m.group(0))]
+    print(f'new clipboard content: {clipboard_content}')
+else:
+    result_count = 1
+
+results = bn.return_results(clipboard_content, count=result_count)
+
+for item in results:
+
+    cmd_str = 'google-chrome ' + item
+    subprocess.Popen(['google-chrome', item])

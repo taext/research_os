@@ -1,0 +1,4 @@
+#!/bin/sh
+# late - prints the latest X files (default: 1)
+
+ls *.* -u | head -n${1-1}

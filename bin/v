@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# run vlcyt script, pass result URL to VLC player
+
+vlc $(p)

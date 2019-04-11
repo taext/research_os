@@ -1,0 +1,27 @@
+#!/home/dd/anaconda3/bin/python
+"""SMS module, optional receiver argument."""
+
+import sys
+from twilio.rest import Client
+
+def main(body_in, to_addr='+00000000'):
+
+    # Your Account SID from twilio.com/console
+    account_sid = "XXXXXX"
+    # Your Auth Token from twilio.com/console
+    auth_token  = "XXXXX"
+    client = Client(account_sid, auth_token)
+
+    message = client.messages.create(
+        to=to_addr,
+        from_="+000000000",
+        body=body_in)
+
+    return(message.sid)
+
+
+if __name__ == '__main__':   
+    if len(sys.argv) == 2:
+        main(sys.argv[1])
+    if len(sys.argv) == 3:
+        main(sys.argv[1], sys.argv[2])

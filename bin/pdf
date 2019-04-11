@@ -1,0 +1,30 @@
+#!/home/dd/anaconda3/bin/python
+# p.py v0.4
+
+"""search Downloads folder for regex match 
+and open PDF file with Chrome"""
+
+import re, sys, os, sh
+
+input_regex = sys.argv[1]
+r = re.compile(input_regex, re.IGNORECASE)
+
+files = os.listdir('/home/dd/Downloads')
+
+match_files = list(filter(r.search, files))
+
+#print(match_files)
+for item in match_files:
+    print(item)
+
+#full_filename = '/home/dd/Downloads/' + match_files[0]
+
+#google-chrome @(full_filename) 2> /dev/null 1> /dev/null
+
+
+for item in match_files:
+
+    full_filename = '/home/dd/Downloads/' + item
+
+    sh.google_chrome(full_filename)
+

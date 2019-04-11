@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# takes YouTube URL, downloads .json (video info) and .vtt (subtitles)
+
+cd /home/dd/Documents/srt_search
+youtube-dl $1 -j > "./files/$(youtube-dl $1 -e).json"
+#./get_yt_sub.py $1 | xargs -0 -I {} wget {} -O "./files/$(youtube-dl $1 -e).srt"
+cd files
+youtube-dl --skip-download --write-auto-sub $1 1> /dev/null 2> /dev/null
+cd -
+#./only_textify_srt.py "$(ls -t ./files/*.vtt | head -n 1)"

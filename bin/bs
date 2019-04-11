@@ -1,0 +1,9 @@
+#!/home/dd/anaconda3/bin/python
+
+import sys, sh
+
+search_string = "+".join(sys.argv[1:])
+
+bing_string = 'http://www.bing.com/search?q=' + search_string
+
+sh.firefox(bing_string)

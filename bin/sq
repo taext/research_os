@@ -1,0 +1,24 @@
+#!/home/dd/anaconda3/bin/python
+
+import spider_queen63 as sq
+import sys
+
+if len(sys.argv) > 1 and 'http' in sys.argv[1]:
+  url2 = sys.argv[1]
+else:
+  url2 = sq.t(sys.argv[1])
+
+if len(sys.argv) == 3:
+
+  regex = sys.argv[2]
+
+  spider = sq.spawn(regex)
+
+else:
+
+  spider = sq.spawn_hd
+
+match_results = spider(url2)
+result = sq.milk(match_results)
+
+dump = [print(item) for item in result]
