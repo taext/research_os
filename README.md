@@ -1,4 +1,4 @@
-## Copenhagen OS 
+## Copenhagen OS (CPHOS)
 #### shell scripts and customizations
 
 <br>
