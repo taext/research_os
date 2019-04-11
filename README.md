@@ -4,7 +4,7 @@ upcoming: Mediabyte integration
 
 <br>
 
-### SHELL SCRIPTS
+### Shel Scripts
 
 **lg**: ls and then grep for argument string
 
@@ -55,7 +55,7 @@ upcoming: Mediabyte integration
 <br>
 
 
-HOTKEYS
+### Hotkeys
 
 **ya_paste**: takes input field text, search YouTube, open results in browser tabs (YouTube button) (e.g. Insert key)
 
@@ -67,7 +67,7 @@ HOTKEYS
 
 <br>
 
-ALIASES
+### Aliases
 
 **c**: google-chrome
 
