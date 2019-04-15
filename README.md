@@ -16,6 +16,8 @@ upcoming: Mediabyte integration
 
 **copy**: copy argument to clipboard
 
+**p**: paste clipboard
+
 **yn**: search YouTube in-line
 
 **y**: search YouTube in-line, open results in browser
