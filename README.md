@@ -3,7 +3,7 @@
 
 <br>
 
-### Mediabyte integration
+### [mediabyte](https://github.com/taext/mediabyte) integration
 
 <br>
 
