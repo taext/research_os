@@ -24,7 +24,7 @@ upcoming: Mediabyte integration
 
 **see**: search YouTube with random words from short film related word list, open in VLC
 
-**bn**: search Bing in-line
+**bn**: search Bing, get result URLs in-line
 
 **b**: search Bing in-line, open results in browser
 
@@ -34,13 +34,13 @@ upcoming: Mediabyte integration
 
 **arte**: open arte.tv in browser
 
-**sq**: parse website for regex in-line, e.g. MP3 link (spider queen)
+**sq**: parse website for regex, e.g. MP3 link, get result in-line (spider queen)
 
 **gem**: encrypt string (argument or piped) with default public key
 
-**rp**: get random podcast from full RSS feed
+**rp**: get random podcast URL from full RSS feed
 
-**rpn**: get random newest episode from full RSS feed
+**rpn**: get random newest podcast episode URL from full RSS feed
 
 **di**: open di.fm in browser
 
