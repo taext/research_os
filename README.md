@@ -20,15 +20,15 @@ upcoming: Mediabyte integration
 
 **yn**: search YouTube, get result URLs in-line
 
-**y**: search YouTube in-line, open results in browser
+**y**: search YouTube, open results in browser
 
 **see**: search YouTube with random words from short film related word list, open in VLC
 
 **bn**: search Bing, get result URLs in-line
 
-**b**: search Bing in-line, open results in browser
+**b**: search Bing, open results in browser
 
-**you**: search youtube in-line, open results in VLC
+**you**: search youtube, open results in VLC
 
 **ytd**: download youtube video to ~/Downloads
 
