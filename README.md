@@ -3,9 +3,9 @@
 
 <br>
 
-### Custom software
+### Custom Software
 
-[mediabyte](https://github.com/taext/mediabyte) integration
+[mediabyte](https://github.com/taext/mediabyte)
 
 <br>
 
