@@ -13,9 +13,9 @@
 
 [**lg**](https://github.com/taext/research_os/blob/master/bin/lg): ls and then grep for argument string
 
-**cle**: encrypt clipboard with default public key
+[**cle**](https://github.com/taext/research_os/blob/master/bin/cle): encrypt clipboard with default public key
 
-**bs**: search Bing for arguments, open result page in browser
+[**bs**](https://github.com/taext/research_os/blob/master/bin/bs): search Bing for arguments, open result page in browser
 
 **lib**: search Library Genesis in-line
 
