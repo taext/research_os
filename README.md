@@ -3,13 +3,13 @@ Nordic design Linux shell integrations for **YouTube, Bing, Library Genesis, VLC
 
 <br>
 
-### Custom Software
+### custom software
 
 [**mediabyte**](https://github.com/taext/mediabyte) (online [player](http://www.mediabyte.xyz/))
 
 <br>
 
-### Linux bin Scripts
+### bin scripts
 
 [**lg**](https://github.com/taext/research_os/blob/master/bin/lg): ls and then grep for argument string
 
