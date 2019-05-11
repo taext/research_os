@@ -3,13 +3,13 @@
 
 <br>
 
-### Custom Software
+### Custom software
 
 [mediabyte](https://github.com/taext/mediabyte)
 
 <br>
 
-### Linux bin scripts
+### Linux shell scripts
 
 **lg**: ls and then grep for argument string
 
