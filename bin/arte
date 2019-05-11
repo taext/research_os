@@ -1,0 +1,4 @@
+#!/bin/sh
+# arte - opens Arte TV in browser
+
+google-chrome "https://www.arte.tv/de" > /dev/null
