@@ -11,7 +11,7 @@
 
 ### Linux bin Scripts
 
-**lg**: ls and then grep for argument string
+[**lg**](https://github.com/taext/research_os/blob/master/bin/lg): ls and then grep for argument string
 
 **cle**: encrypt clipboard with default public key
 
