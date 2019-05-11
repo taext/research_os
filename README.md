@@ -66,7 +66,6 @@
 
 ### Hotkeys
 
-How to setup an [Ubuntu hotkey](https://www.faqforge.com/linux/distributions/ubuntu/create-custom-keyboard-shortcut-ubuntu-16-04/).
 
 [**ya_paste**](https://github.com/taext/research_os/blob/master/bin/ya_paste): takes input field text, search YouTube, open results in browser tabs (YouTube button) (e.g. Insert key)
 
@@ -75,6 +74,8 @@ How to setup an [Ubuntu hotkey](https://www.faqforge.com/linux/distributions/ubu
 [**vsub_paste**](https://github.com/taext/research_os/blob/master/bin/vsub_paste): open  YouTube URL from clipboard in VLC and download video info and subtitles (VLC YouTube w. subs and info) (e.g. Shift+Win+V)
 
 [**gen_paste**](https://github.com/taext/research_os/blob/master/bin/gen_paste): takes highlighted text, open Library Genesis results page (e.g. Alt+L)
+
+(How to setup an [Ubuntu hotkey](https://www.faqforge.com/linux/distributions/ubuntu/create-custom-keyboard-shortcut-ubuntu-16-04/))
 
 <br>
 
