@@ -1,5 +1,5 @@
 ## Research OS v0.11
-Linux shell integrations for **YouTube, Bing, Library Genesis, VLC and GPG** 
+Handy Linux shell integrations for **YouTube, Bing, Library Genesis, VLC and GPG** 
 
 <br>
 
