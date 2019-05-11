@@ -59,6 +59,8 @@
 
 **v**: open YouTube URL from clipboard in VLC
 
+**vg**: lg then open in VLC
+
 <br>
 
 
