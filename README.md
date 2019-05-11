@@ -51,7 +51,7 @@
 
 **pdf**: open PDF filename regex matches from ~/Downloads in browser tabs
 
-**sms**: sms using Twilio
+**sms**: sms using Twilio (Twilio account needed)
 
 **sub**: download YouTube video info .json and subtitles .vtt
 
