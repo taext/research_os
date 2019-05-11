@@ -1,5 +1,5 @@
 ## Research OS v0.11
-Nordic design Linux shell integrations for **YouTube, Bing, Library Genesis, VLC, GPG and OPML**.
+Nordic design Linux shell integrations for **YouTube, Bing, Library Genesis, VLC, GPG** and **OPML**.
 
 <br>
 
