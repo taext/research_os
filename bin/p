@@ -1,0 +1,17 @@
+#!/home/dd/anaconda3/bin/python
+# Paste clipboard v0.8
+ 
+import pyperclip
+
+
+def paste():
+
+    clipboard_string = pyperclip.paste()
+
+    return(clipboard_string)
+
+
+if __name__ == '__main__':
+
+    print (paste())
+
