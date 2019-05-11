@@ -17,21 +17,21 @@
 
 [**bs**](https://github.com/taext/research_os/blob/master/bin/bs): search Bing for arguments, open result page in browser
 
-**lib**: search Library Genesis in-line
+[**lib**](https://github.com/taext/research_os/blob/master/bin/lib): search Library Genesis in-line
 
-**copy**: copy argument to clipboard
+[**copy**](https://github.com/taext/research_os/blob/master/bin/copy): copy argument to clipboard
 
-**p**: paste clipboard
+[**p**](https://github.com/taext/research_os/blob/master/bin/p): paste clipboard
 
-**yn**: search YouTube, get result URLs in-line
+[**yn**](https://github.com/taext/research_os/blob/master/bin/yn): search YouTube, get result URLs in-line
 
-**y**: search YouTube, open results in browser
+[**y**](https://github.com/taext/research_os/blob/master/bin/y): search YouTube, open results in browser
 
-**see**: search YouTube with random words from short film related word list, open in VLC
+[**see**](https://github.com/taext/research_os/blob/master/bin/see): search YouTube with random words from short film related word list, open in VLC
 
-**bn**: search Bing, get result URLs in-line
+[**bn**](https://github.com/taext/research_os/blob/master/bin/bn): search Bing, get result URLs in-line
 
-**b**: search Bing, open results in browser
+[**b**](https://github.com/taext/research_os/blob/master/bin/b): search Bing, open results in browser
 
 **you**: search youtube, open results in VLC
 
