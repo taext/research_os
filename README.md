@@ -9,7 +9,7 @@
 
 <br>
 
-### Linux Shell Commands
+### Linux bin scripts
 
 **lg**: ls and then grep for argument string
 
