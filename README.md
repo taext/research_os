@@ -72,7 +72,7 @@
 
 **vsub_paste**: open  YouTube URL from clipboard in VLC and download video info and subtitles (VLC YouTube w. subs and info) (e.g. Shift+Win+V)
 
-**gen_paste**: takes high-lighted text, open Library Genesis results page (e.g. Alt+L)
+**gen_paste**: takes highlighted text, open Library Genesis results page (e.g. Alt+L)
 
 <br>
 
