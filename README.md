@@ -66,6 +66,8 @@
 
 ### Hotkeys
 
+How to setup an [Ubuntu hotkey](https://www.faqforge.com/linux/distributions/ubuntu/create-custom-keyboard-shortcut-ubuntu-16-04/).
+
 [**ya_paste**](https://github.com/taext/research_os/blob/master/bin/ya_paste): takes input field text, search YouTube, open results in browser tabs (YouTube button) (e.g. Insert key)
 
 [**ba_paste**](https://github.com/taext/research_os/blob/master/bin/ba_paste): takes input field text, search Bing, open results in browser tabs (Bing button) (e.g. Shift+Insert key)
