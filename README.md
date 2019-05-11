@@ -5,7 +5,7 @@ Nordic design Linux shell integrations for **YouTube, Bing, Library Genesis, VLC
 
 ### Custom Software
 
-[**mediabyte**](https://github.com/taext/mediabyte) (online [player]((http://www.mediabyte.xyz/)))
+[**mediabyte**](https://github.com/taext/mediabyte) (online [player](http://www.mediabyte.xyz/))
 
 [**powercasts**](https://github.com/taext/powercasts)
 
