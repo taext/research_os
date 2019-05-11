@@ -75,7 +75,7 @@
 
 [**gen_paste**](https://github.com/taext/research_os/blob/master/bin/gen_paste): takes highlighted text, open Library Genesis results page (e.g. Alt+L)
 
-(How to setup an [Ubuntu hotkey](https://www.faqforge.com/linux/distributions/ubuntu/create-custom-keyboard-shortcut-ubuntu-16-04/))
+How to setup an [Ubuntu hotkey](https://www.faqforge.com/linux/distributions/ubuntu/create-custom-keyboard-shortcut-ubuntu-16-04/).
 
 <br>
 
@@ -100,5 +100,7 @@
 **sau**: sudo apt update; sudo apt upgrade
 
 **yt**: youtube-dl
+
+How to setup a [Linux alias](https://www.tecmint.com/create-alias-in-linux/).
 
 <br>
