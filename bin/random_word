@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cat parsed_terms.txt | shuf -n 1
+
