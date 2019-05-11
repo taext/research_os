@@ -1,56 +1,65 @@
 ## Research OS v0.1
-#### YouTube, Bing, Library Genesis, VLC and GPG integrations
-upcoming: Mediabyte integration
+**YouTube, Bing, Library Genesis, VLC and GPG** Linux shell integrations
 
 <br>
 
-### Shell Scripts
+### Custom Software
 
-**lg**: ls and then grep for argument string
+[**mediabyte**](https://github.com/taext/mediabyte)
 
-**cle**: encrypt clipboard with default public key
+<br>
 
-**bs**: search Bing for arguments, open result page in browser
+### Linux bin Scripts
+
+[**lg**](https://github.com/taext/research_os/blob/master/bin/lg): ls and then grep for argument string
+
+[**cle**](https://github.com/taext/research_os/blob/master/bin/cle): encrypt clipboard with default public key
+
+[**bs**](https://github.com/taext/research_os/blob/master/bin/bs): search Bing for arguments, open result page in browser
 
 **lib**: search Library Genesis in-line
 
 **copy**: copy argument to clipboard
 
-**yn**: search YouTube in-line
+**p**: paste clipboard
 
-**y**: search YouTube in-line, open results in browser
+**yn**: search YouTube, get result URLs in-line
+
+**y**: search YouTube, open results in browser
 
 **see**: search YouTube with random words from short film related word list, open in VLC
 
-**bn**: search Bing in-line
+**bn**: search Bing, get result URLs in-line
 
-**b**: search Bing in-line, open results in browser
+**b**: search Bing, open results in browser
 
-**you**: search youtube in-line, open results in VLC
+**you**: search youtube, open results in VLC
 
 **ytd**: download youtube video to ~/Downloads
 
 **arte**: open arte.tv in browser
 
-**sq**: parse website for regex in-line, e.g. MP3 link (spider queen)
+**sq**: parse website for regex, e.g. MP3 link, get result in-line (spider queen)
 
 **gem**: encrypt string (argument or piped) with default public key
 
-**rp**: get random podcast from full RSS feed
+**rp**: get random podcast URL from full RSS feed
 
-**rpn**: get random newest episode from full RSS feed
+**rpn**: get random newest podcast episode URL from full RSS feed
 
 **di**: open di.fm in browser
 
 **pdf**: open PDF filename regex matches from ~/Downloads in browser tabs
 
-**sms**: sms using Twilio
+**sms**: sms using Twilio (Twilio account needed)
 
 **sub**: download YouTube video info .json and subtitles .vtt
 
 **late**: show n files modified the latest
 
 **v**: open YouTube URL from clipboard in VLC
+
+**vg**: lg then open in VLC
 
 <br>
 
@@ -63,7 +72,7 @@ upcoming: Mediabyte integration
 
 **vsub_paste**: open  YouTube URL from clipboard in VLC and download video info and subtitles (VLC YouTube w. subs and info) (e.g. Shift+Win+V)
 
-**gen_paste**: takes high-lighted text, open Library Genesis results page (e.g. Alt+L)
+**gen_paste**: takes highlighted text, open Library Genesis results page (e.g. Alt+L)
 
 <br>
 
