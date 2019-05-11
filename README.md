@@ -5,7 +5,7 @@
 
 ### Custom Software
 
-[mediabyte](https://github.com/taext/mediabyte)
+[**mediabyte**](https://github.com/taext/mediabyte)
 
 <br>
 
