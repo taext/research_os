@@ -29,7 +29,7 @@ Nordic design Linux shell integrations for **YouTube, Bing, Library Genesis, VLC
 
 [**y**](https://github.com/taext/research_os/blob/master/bin/y): search YouTube, open results in browser
 
-[**see**](https://github.com/taext/research_os/blob/master/bin/see): search YouTube using search terms randomly selected from short film-related [word list](https://github.com/taext/research_os/blob/master/bin/parsed_terms.txt), open in VLC
+[**see**](https://github.com/taext/research_os/blob/master/bin/see): search YouTube using random search terms from short film related [word list](https://github.com/taext/research_os/blob/master/bin/parsed_terms.txt), open in VLC
 
 [**bn**](https://github.com/taext/research_os/blob/master/bin/bn): search Bing, get result URLs in-line
 
