@@ -1,3 +1,7 @@
+# custom
+mediabyte
+
+# 3rd party     # used in
 pyperclip
 pyautogui
 sh              # gen_paste
