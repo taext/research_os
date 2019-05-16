@@ -1,15 +1,15 @@
-## Research OS v0.1
-**YouTube, Bing, Library Genesis, VLC and GPG** Linux shell integrations
+## ResearchOS v0.11
+Linux shell integrations for **YouTube, Bing, LibGen, VLC, GPG** and **OPML**.
 
 <br>
 
-### Custom Software
+### custom software
 
-[**mediabyte**](https://github.com/taext/mediabyte)
+[**mediabyte**](https://github.com/taext/mediabyte) (online [player](http://www.mediabyte.xyz/))
 
 <br>
 
-### Linux bin Scripts
+### bin scripts
 
 [**lg**](https://github.com/taext/research_os/blob/master/bin/lg): ls and then grep for argument string
 
@@ -27,52 +27,57 @@
 
 [**y**](https://github.com/taext/research_os/blob/master/bin/y): search YouTube, open results in browser
 
-[**see**](https://github.com/taext/research_os/blob/master/bin/see): search YouTube with random words from short film related word list, open in VLC
+[**see**](https://github.com/taext/research_os/blob/master/bin/see): search YouTube using random search terms from short film related [word list](https://github.com/taext/research_os/blob/master/bin/parsed_terms.txt), open in VLC
 
 [**bn**](https://github.com/taext/research_os/blob/master/bin/bn): search Bing, get result URLs in-line
 
 [**b**](https://github.com/taext/research_os/blob/master/bin/b): search Bing, open results in browser
 
-**you**: search youtube, open results in VLC
+[**you**](https://github.com/taext/research_os/blob/master/bin/you): search youtube, open results in VLC
 
-**ytd**: download youtube video to ~/Downloads
+[**ytd**](https://github.com/taext/research_os/blob/master/bin/ytd): download youtube video to ~/Downloads
 
-**arte**: open arte.tv in browser
+[**arte**](https://github.com/taext/research_os/blob/master/bin/arte): open arte.tv in browser
 
-**sq**: parse website for regex, e.g. MP3 link, get result in-line (spider queen)
+[**sq**](https://github.com/taext/research_os/blob/master/bin/sq): parse website for regex, e.g. MP3 link, get result in-line (spider queen)
 
-**gem**: encrypt string (argument or piped) with default public key
+[**gem**](https://github.com/taext/research_os/blob/master/bin/gem): encrypt string (argument or piped) with default public key
 
-**rp**: get random podcast URL from full RSS feed
+[**rp**](https://github.com/taext/research_os/blob/master/bin/rp): get random podcast URL from full RSS feed
 
-**rpn**: get random newest podcast episode URL from full RSS feed
+[**rpn**](https://github.com/taext/research_os/blob/master/bin/rpn): get random newest podcast episode URL from full RSS feed
 
-**di**: open di.fm in browser
+[**di**](https://github.com/taext/research_os/blob/master/bin/di): open di.fm in browser
 
-**pdf**: open PDF filename regex matches from ~/Downloads in browser tabs
+[**pdf**](https://github.com/taext/research_os/blob/master/bin/pdf): open PDF filename regex matches from ~/Downloads in browser tabs
 
-**sms**: sms using Twilio (Twilio account needed)
+[**sms**](https://github.com/taext/research_os/blob/master/bin/sms): sms using Twilio (Twilio account needed)
 
-**sub**: download YouTube video info .json and subtitles .vtt
+[**sub**](https://github.com/taext/research_os/blob/master/bin/sub): download YouTube video info .json and subtitles .vtt
 
-**late**: show n files modified the latest
+[**late**](https://github.com/taext/research_os/blob/master/bin/late): show n files modified the latest
 
-**v**: open YouTube URL from clipboard in VLC
+[**v**](https://github.com/taext/research_os/blob/master/bin/v): open YouTube URL from clipboard in VLC
 
-**vg**: lg then open in VLC
+[**vg**](https://github.com/taext/research_os/blob/master/bin/vg): lg then open in VLC
 
 <br>
 
 
 ### Hotkeys
 
-**ya_paste**: takes input field text, search YouTube, open results in browser tabs (YouTube button) (e.g. Insert key)
 
-**ba_paste**: takes input field text, search Bing, open results in browser tabs (Bing button) (e.g. Shift+Insert key)
+[**ya_paste**](https://github.com/taext/research_os/blob/master/bin/ya_paste): takes input field text, search YouTube, open results in browser tabs (YouTube button) (e.g. Insert key)
 
-**vsub_paste**: open  YouTube URL from clipboard in VLC and download video info and subtitles (VLC YouTube w. subs and info) (e.g. Shift+Win+V)
+[**ba_paste**](https://github.com/taext/research_os/blob/master/bin/ba_paste): takes input field text, search Bing, open results in browser tabs (Bing button) (e.g. Shift+Insert key)
 
-**gen_paste**: takes highlighted text, open Library Genesis results page (e.g. Alt+L)
+[**vsub_paste**](https://github.com/taext/research_os/blob/master/bin/vsub_paste): open  YouTube URL from clipboard in VLC and download video info and subtitles (VLC YouTube w. subs and info) (e.g. Shift+Win+V)
+
+[**gen_paste**](https://github.com/taext/research_os/blob/master/bin/gen_paste): takes highlighted text, open Library Genesis results page (e.g. Alt+L)
+
+<br>
+
+How to setup an [Ubuntu hotkey](https://www.faqforge.com/linux/distributions/ubuntu/create-custom-keyboard-shortcut-ubuntu-16-04/).
 
 <br>
 
@@ -97,5 +102,9 @@
 **sau**: sudo apt update; sudo apt upgrade
 
 **yt**: youtube-dl
+
+<br>
+
+How to setup a [Linux alias](https://www.tecmint.com/create-alias-in-linux/).
 
 <br>
