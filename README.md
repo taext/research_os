@@ -57,7 +57,7 @@ Linux shell integrations for **YouTube, Bing, LibGen, VLC, GPG** and **OPML**.
 
 [**late**](https://github.com/taext/research_os/blob/master/bin/late): show n files modified the latest
 
-[**v**](https://github.com/taext/research_os/blob/master/bin/v): open YouTube URL from clipboard in VLC
+[**v**](https://github.com/taext/research_os/blob/master/bin/v): open clipboard URL in VLC
 
 [**vg**](https://github.com/taext/research_os/blob/master/bin/vg): lg then open in VLC
 
