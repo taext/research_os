@@ -1,0 +1,5 @@
+pyperclip
+pyautogui
+sh              # gen_paste
+gnupg           # gem, cle
+youtube-dl      # sub
