@@ -11,7 +11,7 @@ Linux shell integrations for **YouTube, Bing, LibGen, VLC, GPG** and **OPML**.
 
 ### bin scripts
 
-[**lg**](https://github.com/taext/research_os/blob/master/bin/lg): ls and then grep for argument string
+[**lg**](https://github.com/taext/research_os/blob/master/bin/lg): ls and then grep
 
 [**cle**](https://github.com/taext/research_os/blob/master/bin/cle): encrypt clipboard with default public key
 
