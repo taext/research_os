@@ -1,5 +1,7 @@
 ## ResearchOS v0.11
-Custom Linux CLI tools for online media handling (**YouTube, Bing, LibGen, VLC, GPG** and **OPML** integrations).
+Custom Linux CLI tools for online media handling 
+
+- **YouTube, Bing, LibGen, VLC, GPG** and **OPML** integrations
 
 <br>
 
