@@ -1,5 +1,5 @@
 ## ResearchOS v0.11
-Linux shell integrations for **YouTube, Bing, LibGen, VLC, GPG** and **OPML**.
+Custom Linux shell tools for handling online media (**YouTube, Bing, LibGen, VLC, GPG** and **OPML** integrations).
 
 <br>
 
