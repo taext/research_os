@@ -1,5 +1,7 @@
-## ResearchOS v0.11
-Linux shell integrations for **YouTube, Bing, LibGen, VLC, GPG** and **OPML**.
+## ResearchOS 0.12
+Custom Linux command-line tools for handling online media
+
+- **YouTube, Bing, LibGen, VLC, GPG** and **OPML** integrations
 
 <br>
 
@@ -7,11 +9,13 @@ Linux shell integrations for **YouTube, Bing, LibGen, VLC, GPG** and **OPML**.
 
 [**mediabyte**](https://github.com/taext/mediabyte) (online [player](http://www.mediabyte.xyz/))
 
+[**powercasts**](https://github.com/taext/powercasts/blob/master/README.md)
+
 <br>
 
 ### bin scripts
 
-[**lg**](https://github.com/taext/research_os/blob/master/bin/lg): ls and then grep for argument string
+[**lg**](https://github.com/taext/research_os/blob/master/bin/lg): ls and then grep
 
 [**cle**](https://github.com/taext/research_os/blob/master/bin/cle): encrypt clipboard with default public key
 
@@ -57,7 +61,7 @@ Linux shell integrations for **YouTube, Bing, LibGen, VLC, GPG** and **OPML**.
 
 [**late**](https://github.com/taext/research_os/blob/master/bin/late): show n files modified the latest
 
-[**v**](https://github.com/taext/research_os/blob/master/bin/v): open YouTube URL from clipboard in VLC
+[**v**](https://github.com/taext/research_os/blob/master/bin/v): open clipboard URL in VLC
 
 [**vg**](https://github.com/taext/research_os/blob/master/bin/vg): lg then open in VLC
 
