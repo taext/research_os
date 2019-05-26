@@ -13,6 +13,12 @@ Custom Linux command-line tools for handling online media
 
 <br>
 
+### custom web parsers
+
+[**parsers**] (https://github.com/taext/parsers)
+
+<br>
+
 ### bin scripts
 
 [**lg**](https://github.com/taext/research_os/blob/master/bin/lg): ls and then grep
