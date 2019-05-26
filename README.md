@@ -15,7 +15,10 @@ Custom Linux command-line tools for handling online media
 
 ### custom web parsers
 
-[**parsers**](https://github.com/taext/parsers) YouTube, Bing, LibGen and torrent search CLI tools
+[**yn**](https://github.com/taext/parsers/tree/master/youtube_parser) get YouTube video search result URLs in-line
+[**bn**](https://github.com/taext/parsers/tree/master/bing_parser) get Bing web search result URLs in-line
+
+[**bay**](https://github.com/taext/parsers/tree/master/the_hidden_bay_parser)** get thehiddenbay.com torrent search results in-line
 
 
 <br>
