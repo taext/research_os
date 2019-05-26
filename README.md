@@ -24,7 +24,7 @@ Custom Linux command-line tools for handling online media
 
 [**lg**](https://github.com/taext/research_os/blob/master/bin/lg): ls and then grep
 
-[**cle**](https://github.com/taext/research_os/blob/master/bin/cle): encrypt clipboard with default public key
+[**cle**](https://github.com/taext/research_os/blob/master/bin/cle): encrypt clipboard with default public key #[idea](https://github.com/taext/research_os/blob/master/ideas/cle-interesting-idea.md)
 
 [**bs**](https://github.com/taext/research_os/blob/master/bin/bs): search Bing for arguments, open result page in browser
 
