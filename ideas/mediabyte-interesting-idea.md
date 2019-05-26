@@ -15,4 +15,4 @@ The interesting idea with Mediabyte is three-fold:
 
 ### TL;DR
 
-With Mediabyte you can remix YouTube videos and podcast MP3s.
+With Mediabyte you can tag and remix YouTube videos and podcast MP3s.
