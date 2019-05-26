@@ -15,7 +15,7 @@ Custom Linux command-line tools for handling online media
 
 ### custom web parsers
 
-[**parsers**] (https://github.com/taext/parsers)
+[**parsers**](https://github.com/taext/parsers)
 
 <br>
 
