@@ -17,6 +17,16 @@ Custom Linux command-line tools for handling online media
 
 [**parsers**](https://github.com/taext/parsers)
 
+[**yn**](https://github.com/taext/research_os/blob/master/bin/yn): search YouTube, get result URLs in-line
+
+[**y**](https://github.com/taext/research_os/blob/master/bin/y): search YouTube, open results in browser
+
+[**bn**](https://github.com/taext/research_os/blob/master/bin/bn): search Bing, get result URLs in-line
+
+[**b**](https://github.com/taext/research_os/blob/master/bin/b): search Bing, open results in browser
+
+
+
 <br>
 
 ### bin scripts
@@ -33,15 +43,7 @@ Custom Linux command-line tools for handling online media
 
 [**p**](https://github.com/taext/research_os/blob/master/bin/p): paste clipboard
 
-[**yn**](https://github.com/taext/research_os/blob/master/bin/yn): search YouTube, get result URLs in-line
-
-[**y**](https://github.com/taext/research_os/blob/master/bin/y): search YouTube, open results in browser
-
 [**see**](https://github.com/taext/research_os/blob/master/bin/see): search YouTube using random search terms from short film related [word list](https://github.com/taext/research_os/blob/master/bin/parsed_terms.txt), open in VLC
-
-[**bn**](https://github.com/taext/research_os/blob/master/bin/bn): search Bing, get result URLs in-line
-
-[**b**](https://github.com/taext/research_os/blob/master/bin/b): search Bing, open results in browser
 
 [**you**](https://github.com/taext/research_os/blob/master/bin/you): search youtube, open results in VLC
 
