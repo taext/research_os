@@ -41,7 +41,7 @@ Custom Linux command-line tools for handling online media
 
 [**p**](https://github.com/taext/research_os/blob/master/bin/p): paste clipboard
 
-[**see**](https://github.com/taext/research_os/blob/master/bin/see): search YouTube using random search terms from short film related [word list](https://github.com/taext/research_os/blob/master/bin/parsed_terms.txt), open in VLC
+[**see**](https://github.com/taext/research_os/blob/master/bin/see): search YouTube using random search terms from short film related [word list](https://github.com/taext/research_os/blob/master/bin/parsed_terms.txt), open in VLC #[idea](https://github.com/taext/research_os/blob/master/ideas/see-interesting-idea.md)
 
 [**you**](https://github.com/taext/research_os/blob/master/bin/you): search youtube, open results in VLC
 
