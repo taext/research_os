@@ -1,6 +1,6 @@
-# PowerCasts
+# Interesting Ideas
 
-### What is the interesting idea in PowerCasts?
+### What is the interesting idea with PowerCasts?
 
 The interesting idea with PowerCasts is the ability to play random episodes from a full OPML podcast feed collection.
 
