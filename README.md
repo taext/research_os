@@ -7,7 +7,7 @@ Custom Linux command-line tools for handling online media
 
 ### custom software
 
-[**mediabyte**](https://github.com/taext/mediabyte) (online [player](http://www.mediabyte.xyz/))
+[**mediabyte**](https://github.com/taext/mediabyte) (online [player](http://www.mediabyte.xyz/)) #[idea](https://github.com/taext/research_os/blob/master/ideas/powercasts-interesting-idea.md)
 
 [**powercasts**](https://github.com/taext/powercasts/blob/master/README.md) #[idea](https://github.com/taext/research_os/tree/master/ideas/powercasts-interesting-idea.md)
 
