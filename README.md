@@ -19,7 +19,7 @@ Custom Linux command-line tools for handling online media
 
 [**bn**](https://github.com/taext/parsers/tree/master/bing_parser) get Bing web search result URLs in-line
 
-[**libgen_parser**](https://github.com/taext/parsers/tree/master/libgen_parser) get Library Genesis book search results in-line
+[**lib**](https://github.com/taext/parsers/tree/master/libgen_parser) get Library Genesis book search results in-line
 
 [**bay**](https://github.com/taext/parsers/tree/master/the_hidden_bay_parser) get thehiddenbay.com torrent search results in-line
 
