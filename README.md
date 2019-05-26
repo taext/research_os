@@ -17,15 +17,6 @@ Custom Linux command-line tools for handling online media
 
 [**parsers**](https://github.com/taext/parsers)
 
-[**yn**](https://github.com/taext/research_os/blob/master/bin/yn): search YouTube, get result URLs in-line
-
-[**y**](https://github.com/taext/research_os/blob/master/bin/y): search YouTube, open results in browser
-
-[**bn**](https://github.com/taext/research_os/blob/master/bin/bn): search Bing, get result URLs in-line
-
-[**b**](https://github.com/taext/research_os/blob/master/bin/b): search Bing, open results in browser
-
-
 
 <br>
 
