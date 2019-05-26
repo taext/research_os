@@ -28,8 +28,6 @@ Custom Linux command-line tools for handling online media
 
 [**bs**](https://github.com/taext/research_os/blob/master/bin/bs): search Bing for arguments, open result page in browser
 
-[**lib**](https://github.com/taext/research_os/blob/master/bin/lib): search Library Genesis in-line
-
 [**copy**](https://github.com/taext/research_os/blob/master/bin/copy): copy argument to clipboard
 
 [**p**](https://github.com/taext/research_os/blob/master/bin/p): paste clipboard
@@ -45,10 +43,6 @@ Custom Linux command-line tools for handling online media
 [**sq**](https://github.com/taext/research_os/blob/master/bin/sq): parse website for regex, e.g. MP3 link, get result in-line (spider queen)
 
 [**gem**](https://github.com/taext/research_os/blob/master/bin/gem): encrypt string (argument or piped) with default public key
-
-[**rp**](https://github.com/taext/research_os/blob/master/bin/rp): get random podcast URL from full RSS feed
-
-[**rpn**](https://github.com/taext/research_os/blob/master/bin/rpn): get random newest podcast episode URL from full RSS feed
 
 [**di**](https://github.com/taext/research_os/blob/master/bin/di): open di.fm in browser
 
