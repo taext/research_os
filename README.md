@@ -46,7 +46,7 @@ Custom Linux command-line tools for handling online media
 
 [**di**](https://github.com/taext/research_os/blob/master/bin/di): open di.fm in browser
 
-[**pdf**](https://github.com/taext/research_os/blob/master/bin/pdf): open PDF filename regex matches from ~/Downloads in browser tabs
+[**pdf**](https://github.com/taext/research_os/blob/master/bin/pdf): open PDF filename regex matches from ~/Downloads
 
 [**sms**](https://github.com/taext/research_os/blob/master/bin/sms): sms using Twilio (Twilio account needed)
 
