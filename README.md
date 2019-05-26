@@ -42,7 +42,7 @@ Custom Linux command-line tools for handling online media
 
 [**sq**](https://github.com/taext/research_os/blob/master/bin/sq): parse website for regex, e.g. MP3 link, get result in-line (spider queen)
 
-[**gem**](https://github.com/taext/research_os/blob/master/bin/gem): encrypt string (argument or piped) with default public key
+[**gem**](https://github.com/taext/research_os/blob/master/bin/gem): encrypt string (argument or piped) with default public key #[idea](https://github.com/taext/research_os/blob/master/ideas/cle-interesting-idea.md)
 
 [**di**](https://github.com/taext/research_os/blob/master/bin/di): open di.fm in browser
 
