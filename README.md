@@ -24,7 +24,7 @@ Custom Linux command-line tools for handling online media
 
 [**lg**](https://github.com/taext/research_os/blob/master/bin/lg): ls and then grep
 
-[**cle**](https://github.com/taext/research_os/blob/master/bin/cle): encrypt clipboard with default public key #[idea](https://github.com/taext/research_os/blob/master/ideas/cle-interesting-idea.md)
+[**cle**](https://github.com/taext/research_os/blob/master/bin/cle): encrypt clipboard with default public key #[idea](https://github.com/taext/research_os/blob/master/ideas/gem-and-cle-interesting-idea.md)
 
 [**bs**](https://github.com/taext/research_os/blob/master/bin/bs): search Bing for arguments, open result page in browser
 
@@ -42,7 +42,7 @@ Custom Linux command-line tools for handling online media
 
 [**sq**](https://github.com/taext/research_os/blob/master/bin/sq): parse website for regex, e.g. MP3 link, get result in-line (spider queen)
 
-[**gem**](https://github.com/taext/research_os/blob/master/bin/gem): encrypt string (argument or piped) with default public key #[idea](https://github.com/taext/research_os/blob/master/ideas/cle-interesting-idea.md)
+[**gem**](https://github.com/taext/research_os/blob/master/bin/gem): encrypt string (argument or piped) with default public key #[idea](https://github.com/taext/research_os/blob/master/ideas/gem-and-cle-interesting-idea.md)
 
 [**di**](https://github.com/taext/research_os/blob/master/bin/di): open di.fm in browser
 
