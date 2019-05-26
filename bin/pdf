@@ -26,5 +26,5 @@ for item in match_files:
 
     full_filename = '/home/dd/Downloads/' + item
 
-    sh.google_chrome(full_filename)
+    sh.xdg_open(full_filename)
 
