@@ -1,4 +1,4 @@
-# Mediabyte
+# Interesting Ideas
 
 ### What is the interesting idea with Mediabyte?
 
