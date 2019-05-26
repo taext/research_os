@@ -1,6 +1,6 @@
 # Mediabyte
 
-### What is the interesting idea in Mediabyte?
+### What is the interesting idea with Mediabyte?
 
 The interesting idea with Mediabyte is three-fold: 
 
