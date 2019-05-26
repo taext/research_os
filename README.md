@@ -1,5 +1,5 @@
 ## ResearchOS 0.13
-Custom Linux command-line tools for handling online media for the 21st century.
+Custom Linux command-line tools for handling online media in the 21st century.
 
 - **YouTube, Bing, LibGen, VLC, GPG** and **OPML** integrations
 
