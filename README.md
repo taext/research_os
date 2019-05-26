@@ -15,7 +15,7 @@ Custom Linux command-line tools for handling online media
 
 ### custom web parsers
 
-[**parsers**](https://github.com/taext/parsers)
+[**parsers**](https://github.com/taext/parsers) YouTube, Bing, LibGen and torrent parsers
 
 
 <br>
