@@ -13,16 +13,6 @@ The interesting idea with Mediabyte is three-fold:
 
 
 
-
-
-
-
-
-
-
-
-
-
 ### TL;DR
 
-Having a full list of podcast episode URLs is pretty neat.
+With Mediabyte you can remix YouTube videos and podcast MP3s.
