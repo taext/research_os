@@ -2,7 +2,7 @@
 
 ### What is the interesting idea with bn?
 
-The interesting idea with `bn` is searching Bing in the background and getting the result URLs only in-line, abstracting away everything except search engine and content.
+The interesting idea with `bn` is searching Bing in the background and getting result URLs only in-line, abstracting away everything except search engine and content.
 
 
 ### TL;DR
