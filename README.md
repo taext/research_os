@@ -11,7 +11,7 @@ Custom Linux command-line tools for handling online media in the 21st century.
 
 [**powercasts**](https://github.com/taext/powercasts/blob/master/README.md) #[idea](https://github.com/taext/research_os/tree/master/ideas/powercasts-interesting-idea.md)
 
-[**calibre_tooling**](https://github.com/taext/calibre_tooling/blob/master/README.md)
+[**calibre_tooling**](https://github.com/taext/calibre_tooling/blob/master/README.md) #[idea](https://github.com/taext/research_os/blob/master/ideas/calibre_tooling-interesting-idea.md)
 
 <br>
 
