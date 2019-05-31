@@ -1,4 +1,4 @@
-## ResearchOS 0.13
+## ResearchOS v0.14
 Custom Linux command-line tools for handling online media in the 21st century.
 
 - **YouTube, Bing, LibGen, VLC, GPG** and **OPML** shell integrations
@@ -10,6 +10,8 @@ Custom Linux command-line tools for handling online media in the 21st century.
 [**mediabyte**](https://github.com/taext/mediabyte) (online [player](http://www.mediabyte.xyz/)) #[idea](https://github.com/taext/research_os/blob/master/ideas/mediabyte-interesting-idea.md)
 
 [**powercasts**](https://github.com/taext/powercasts/blob/master/README.md) #[idea](https://github.com/taext/research_os/tree/master/ideas/powercasts-interesting-idea.md)
+
+[**calibre_tooling**](https://github.com/taext/calibre_tooling/blob/master/README.md)
 
 <br>
 
