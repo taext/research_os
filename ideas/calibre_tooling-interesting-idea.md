@@ -4,6 +4,7 @@
 
 `calibre_tooling` is a Calibre library Python API.
 
+<br>
 
 ### What's that again?
 
