@@ -5,6 +5,6 @@
 `calibre_tooling` is a Calibre library Python API.
 
 
-### TL;DR
+### What's that again?
 
-With `calibre_tooling` you can access all the information in your Calibre library.
+With `calibre_tooling` you can access all the information in your Calibre library using Python.
