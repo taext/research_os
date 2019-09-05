@@ -1,4 +1,4 @@
-## ResearchOS v0.16
+## ResearchOS v0.17
 Custom Linux command-line tools for handling online media in the 21st century.
 
 - **YouTube, Bing, LibGen, VLC, GPG** and **OPML** shell integrations
@@ -27,7 +27,7 @@ Custom Linux command-line tools for handling online media in the 21st century.
 
 [**dr_m3u8**](https://github.com/taext/parsers/tree/master/dr_m3u8) get .m3u8 streaming link of dr.dk tv program #[idea](https://github.com/taext/research_os/blob/master/ideas/dr_m3u8-interesting-idea.md)
 
-[**amazon_link**](/home/dd/bin/amazon_link) get book title Amazon link in-line
+[**amazon_link**](https://github.com/taext/parsers/tree/master/amazon_parser) get book title Amazon link in-line
 
 
 <br>
