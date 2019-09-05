@@ -1,4 +1,4 @@
-## ResearchOS v0.17
+## ResearchOS v0.18
 Custom Linux command-line tools for handling online media in the 21st century.
 
 - **YouTube, Bing, LibGen, VLC, GPG** and **OPML** shell integrations
@@ -76,13 +76,13 @@ Custom Linux command-line tools for handling online media in the 21st century.
 ### Hotkeys
 
 
-[**ya_paste**](https://github.com/taext/research_os/blob/master/bin/ya_paste): takes input field text, search YouTube, open results in browser tabs (YouTube button) (e.g. Insert key)
+[**ya_paste**](https://github.com/taext/research_os/blob/master/bin/ya_paste): takes active input field text, search YouTube, open results in browser tabs (YouTube button) (e.g. Insert key)
 
-[**ba_paste**](https://github.com/taext/research_os/blob/master/bin/ba_paste): takes input field text, search Bing, open results in browser tabs (Bing button) (e.g. Shift+Insert key)
+[**ba_paste**](https://github.com/taext/research_os/blob/master/bin/ba_paste): takes active input field text, search Bing, open results in browser tabs (Bing button) (e.g. Shift+Insert key)
 
 [**vsub_paste**](https://github.com/taext/research_os/blob/master/bin/vsub_paste): open  YouTube URL from clipboard in VLC and download video info and subtitles (VLC YouTube w. subs and info) (e.g. Shift+Win+V)
 
-[**gen_paste**](https://github.com/taext/research_os/blob/master/bin/gen_paste): takes highlighted text, open Library Genesis results page (e.g. Alt+L)
+[**gen_paste**](https://github.com/taext/research_os/blob/master/bin/gen_paste): search LibGen with clipboard text, open Library Genesis results page (e.g. Alt+L)
 
 <br>
 
