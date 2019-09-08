@@ -1,7 +1,7 @@
-## ResearchOS v0.18
+## ResearchOS v0.19
 Custom Linux command-line tools for handling online media in the 21st century.
 
-- **YouTube, Bing, LibGen, VLC, GPG** and **OPML** shell integrations
+- **YouTube, Bing, LibGen, VLC, GPG**, **OPML** and **Amazon** shell integrations
 
 <br>
 
