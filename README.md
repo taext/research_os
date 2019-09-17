@@ -75,7 +75,7 @@ Custom Linux command-line tools for handling online media in the 21st century.
 
 ### Hotkeys
 
-The hotkey scripts below are meant to be assigned to a hotkey. 
+The first two hotkey scripts below `ya_paste` and `ba_paste` are meant to be assigned to a hotkey. 
 
 When executed, *they take as input the text in the active text field*. 
 
