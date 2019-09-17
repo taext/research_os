@@ -2,7 +2,7 @@
 
 ### What is the interesting idea with calibre_tooling?
 
-`calibre_tooling` is a Calibre library Python API.
+`calibre_tooling` is a Python Calibre library search API.
 
 <br>
 
