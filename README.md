@@ -75,7 +75,7 @@ Custom Linux command-line tools for handling online media in the 21st century.
 
 ### Hotkeys
 
-The first two hotkey scripts below `ya_paste` and `ba_paste` are meant to be assigned to a hotkey. 
+The two scripts below `ya_paste` and `ba_paste` are meant to be assigned to a hotkey. 
 
 When executed, *they take as input the text in the active text field*. 
 
@@ -86,6 +86,8 @@ Effectively creating a tunnel from every text field you see to where you want to
 [**ya_paste**](https://github.com/taext/research_os/blob/master/bin/ya_paste): takes active input field text, search YouTube, open results in browser tabs (YouTube button) (e.g. Insert key)
 
 [**ba_paste**](https://github.com/taext/research_os/blob/master/bin/ba_paste): takes active input field text, search Bing, open results in browser tabs (Bing button) (e.g. Shift+Insert key)
+
+These two hotkey scripts takes the clipboard content as input, instead.
 
 [**vsub_paste**](https://github.com/taext/research_os/blob/master/bin/vsub_paste): open  YouTube URL from clipboard in VLC and download video info and subtitles (VLC YouTube w. subs and info) (e.g. Shift+Win+V)
 
