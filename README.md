@@ -5,7 +5,7 @@ Custom Linux command-line tools for handling online media in the 21st century.
 
 <br>
 
-### custom software
+### software
 
 [**mediabyte**](https://github.com/taext/mediabyte) #[idea](https://github.com/taext/research_os/blob/master/ideas/mediabyte-interesting-idea.md)
 
@@ -15,7 +15,7 @@ Custom Linux command-line tools for handling online media in the 21st century.
 
 <br>
 
-### custom web parsers
+### web parsers
 
 [**yn**](https://github.com/taext/parsers/tree/master/youtube_parser) get YouTube video search result URLs in-line #[idea](https://github.com/taext/research_os/blob/master/ideas/yn-interesting-idea.md)
 
@@ -77,11 +77,9 @@ Custom Linux command-line tools for handling online media in the 21st century.
 
 The hotkey scripts below are meant to be assigned to a hotkey. 
 
-When executed, *they take as input the text in the active text field*. 
+When executed *they take as input the text in the active text field*. 
 
-Note that this can be any any text field on the screen. 
-
-Effectively creating a tunnel from every text field you see to where you want to go.
+Note that this can be any text field on the screen. 
 
 [**ya_paste**](https://github.com/taext/research_os/blob/master/bin/ya_paste): takes active input field text, search YouTube, open results in browser tabs (YouTube button) (e.g. Insert key)
 
