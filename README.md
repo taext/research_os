@@ -15,7 +15,7 @@ Custom Linux command-line tools for handling online media in the 21st century.
 
 <br>
 
-### web parsers
+### cli web parsers
 
 [**yn**](https://github.com/taext/parsers/tree/master/youtube_parser) get YouTube video search result URLs in-line #[idea](https://github.com/taext/research_os/blob/master/ideas/yn-interesting-idea.md)
 
