@@ -1,4 +1,4 @@
-## ResearchOS v0.20
+## ResearchOS v0.21
 Custom Linux command-line tools for handling online media in the 21st century.
 
 - **YouTube, Bing, LibGen, VLC, GPG**, **OPML** and **Amazon** shell integrations
@@ -128,3 +128,4 @@ How to setup an [Ubuntu hotkey](https://www.faqforge.com/linux/distributions/ubu
 How to setup a [Linux alias](https://www.tecmint.com/create-alias-in-linux/).
 
 <br>
+                 Updated November 11th 2019
