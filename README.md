@@ -13,6 +13,8 @@ Custom Linux command-line tools for handling online media in the 21st century.
 
 [**calibre_tooling**](https://github.com/taext/calibre_tooling/blob/master/README.md) #[idea](https://github.com/taext/research_os/blob/master/ideas/calibre_tooling-interesting-idea.md)
 
+[**torthisfile**](https://github.com/taext/torthisfile)
+
 <br>
 
 ### cli web parsers
