@@ -31,8 +31,6 @@ Custom Linux command-line tools for handling online media in the 21st century.
 
 [**bay**](https://github.com/taext/parsers/tree/master/the_hidden_bay_parser) get thehiddenbay.com torrent search results in-line #[idea](https://github.com/taext/research_os/blob/master/ideas/bay-interesting-idea.md)
 
-[**dr_m3u8**](https://github.com/taext/parsers/tree/master/dr_m3u8) get .m3u8 streaming link of dr.dk tv program #[idea](https://github.com/taext/research_os/blob/master/ideas/dr_m3u8-interesting-idea.md)
-
 [**amazon_link**](https://github.com/taext/parsers/tree/master/amazon_parser) get book title Amazon link in-line
 
 
