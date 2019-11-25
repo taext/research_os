@@ -1,4 +1,4 @@
 #!/bin/bash
 
-./randomword | xargs -t -0 -I {} you {} ${1-1}
+./random_word | xargs -t -0 -I {} you {} ${1-1}
  
