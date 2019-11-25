@@ -2,9 +2,9 @@
 # p.py v0.4
 
 """search Downloads folder for regex match 
-and open PDF file with Chrome"""
+and open file with xdg-open"""
 
-import re, sys, os, sh
+import re, sys, os, subprocess
 
 input_regex = sys.argv[1]
 r = re.compile(input_regex, re.IGNORECASE)
@@ -13,18 +13,12 @@ files = os.listdir('/home/dd/Downloads')
 
 match_files = list(filter(r.search, files))
 
-#print(match_files)
 for item in match_files:
     print(item)
-
-#full_filename = '/home/dd/Downloads/' + match_files[0]
-
-#google-chrome @(full_filename) 2> /dev/null 1> /dev/null
-
 
 for item in match_files:
 
     full_filename = '/home/dd/Downloads/' + item
 
-    sh.xdg_open(full_filename)
+    subprocess.Popen(['xdg-open',full_filename]).wait.()
 
