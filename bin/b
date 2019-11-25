@@ -1,2 +1,2 @@
-c "$(bn $*)" 2> /dev/null 1> /dev/null
+c "$(./bn $*)" 2> /dev/null 1> /dev/null &
 
