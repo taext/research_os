@@ -1,8 +1,8 @@
-#!/home/dd/anaconda3/bin/xonsh
+#!/home/dd/anaconda3/bin/python
 
-# gen v1.0 - searches gen.lib.rus.ec  (July 25nd '17)
+# gen v1.1 - searches gen.lib.rus.ec  (November 25th '19)
 
-import sys
+import sys, subprocess
 
 arg_list = sys.argv[1:]
 
@@ -15,7 +15,7 @@ search_term = search_term[:-1].replace(' ','+')
 url = 'http://gen.lib.rus.ec/search.php?req=mysearchquery&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def'
 url = url.replace('mysearchquery', search_term)
 
-google-chrome @(url) > /dev/null 2> /dev/null
+subprocess.Popen(["xdg-open", url]).wait()
 
 print(url)
 
