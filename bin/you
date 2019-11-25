@@ -1,4 +1,4 @@
 #!/bin/bash
 
-vlc $(yn $*) 2> /dev/null &
+vlc $(./yn $*) 2> /dev/null &
 
