@@ -1,0 +1,2 @@
+sed -i 's|#!/home/dd/anaconda3/bin/python|#!/home/steffen/anaconda3/bin/python|' *
+
